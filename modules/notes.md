@@ -72,7 +72,7 @@ app.listen(3000);
 ### ES Modules
 
 * `import` / `export`
-* Modern approach
+* Modern approach  
 
 ---
 
@@ -80,4 +80,4 @@ app.listen(3000);
 
 * Modules make code reusable & organized
 * Types: Core, Local, Third-party
-* Essential concept in Node.js development ⚡
+* Essential concept in Node.js development⚡
