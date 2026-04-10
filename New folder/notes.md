@@ -1,4 +1,4 @@
-# 📘 Exams TIme 
+# 📘 Exams Time 
 
 
 
