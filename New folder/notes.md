@@ -8,3 +8,7 @@ A long journey to go.
 
 Ahh... its 18th of April, and no hope for better exams.
 Well.....
+Wish me luck
+For exams off course....
+.
+.
