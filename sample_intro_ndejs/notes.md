@@ -1,7 +1,6 @@
 # 📘 Introduction to Node.js
 
 ## 🔹 Why Backend is Needed
-
 In web development, there are two main parts:
 
 * **Frontend** → What users see (UI, buttons, forms)
@@ -25,7 +24,6 @@ Node.js is a **runtime environment** that allows JavaScript to run on the **serv
 
 👉 Normally, JavaScript runs only in the browser
 👉 With Node.js, it can run on server also
-
 ---
 
 ## 🔹 Key Features
@@ -48,7 +46,6 @@ Node.js is a **runtime environment** that allows JavaScript to run on the **serv
 ---
 
 ## 🔹 Summary
-
 * Backend is essential for dynamic apps  
 * Node.js enables backend using JavaScript
 * Makes full-stack development easier 🚀  

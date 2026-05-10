@@ -9,7 +9,6 @@ Every Node.js file is wrapped inside a function internally:
   // Your code
 });
 ```
-
 👉 This gives each file its own **private scope**
 
 ---
@@ -23,7 +22,6 @@ Returns full path of current file
 ```js
 console.log(__filename);
 ```
-
 ---
 
 ### 📁 __dirname
@@ -35,7 +33,6 @@ console.log(__dirname);
 ```
 
 ---
-
 ### 📦 module & exports
 
 Used to export data/functions
@@ -47,13 +44,11 @@ Used to export data/functions
 Used to import modules
 
 ---
-
 ## 🔹 Why It Matters
 
 * Prevents global scope pollution
 * Provides module system
 * Keeps code isolated
-
 ---
 
 ## 🔹 Example
@@ -62,9 +57,7 @@ Used to import modules
 console.log('File:', __filename);
 console.log('Directory:', __dirname);
 ```
-
 ---
-
 ## 🔹 Summary
 
 * Node wraps every file inside a function

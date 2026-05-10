@@ -16,7 +16,6 @@ Examples: `fs`, `http`, `path`
 ```js
 const fs = require('fs');
 ```
-
 ---
 
 ### 2. Local Modules
@@ -73,9 +72,7 @@ app.listen(3000);
 
 * `import` / `export`
 * Modern approach  
-
 ---
-
 ## 🔹 Summary
 
 * Modules make code reusable & organized
